@@ -30,9 +30,85 @@ Websites to different sources for specific purposes:
 👨‍💻 Handy Dev tools: http://smalldev.tools
 🎨 High-class illustrations: http://storytale.io
 
-Website links containing lists of Beginner Python projects:
+Website links containing lists of Beginner projects (mostly Python):
 5 Mini Python Projects For Beginners - https://www.youtube.com/watch?v=DLn3jOsNRVE
 12 Beginner Python Projects Coding Course - https://www.youtube.com/watch?v=8ext9G7xspg
 15 Python Projects in Under 15 Minutes (Code Included) - https://www.youtube.com/watch?v=OXi4T58PwdM
 3 Python Automation Projects For Beginners - https://www.youtube.com/watch?v=Oz3W-LKfafE
 20 Beginner Python Projects - https://www.youtube.com/watch?v=pdy3nh1tn6I
+Build 15 JavaScript Projects - https://www.youtube.com/watch?v=3PHXvlpOkf4
+Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript - https://www.youtube.com/watch?v=xV7S8BhIeBo
+Build A Calculator With JavaScript Tutorial - https://www.youtube.com/watch?v=j59qQ7YWLxw
+Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter) - https://www.youtube.com/watch?v=OqbGRZx4xUc
+Learn JavaScript by Building 7 Games - https://www.youtube.com/watch?v=ec8vSKJuZTk
+
+Python Cheatsheet commands (typing them out here to help with building memory):
+<grow the list of commands from the photos in this source link - https://twitter.com/itsafiz/status/1591788434355802115>
+
+List of GitHub repos with valuable information:
+How Web Works - https://github.com/vasanthk/how-web-works
+Developer Roadmap - https://github.com/kamranahmedse/developer-roadmap
+Free Programming Books - https://github.com/EbookFoundation/free-programming-books
+Computer Science - https://github.com/ossu/computer-science
+System Design Primer - https://github.com/donnemartin/system-design-primer
+Coding Interview University - https://github.com/jwasham/coding-interview-university
+Tech Interview Handbook - https://github.com/yangshun/tech-interview-handbook
+Front End Interview Handbook - https://github.com/yangshun/front-end-interview-handbook
+JavaScript Algorithms - https://github.com/trekhleb/javascript-algorithms
+JavaScript Questions - https://github.com/lydiahallie/javascript-questions
+freeCodeCamp - https://github.com/freeCodeCamp/freeCodeCamp
+Awesome Learning Resources (for web) - https://github.com/lauragift21/awesome-learning-resources
+Project Based Learning - https://github.com/practical-tutorials/project-based-learning
+Project Guidelines - https://github.com/elsewhencode/project-guidelines
+Professional Programming - https://github.com/charlax/professional-programming
+The Book Of Secret Knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
+
+Backend Development steps + YouTube videos:
+📌 Learn basics of HTML CSS 
+📌 Learn Javascript
+📌 Learn Git & Github
+
+What is an API - https://youtube.com/watch?v=tgbRY96q-KM
+API For Beginners - https://youtube.com/watch?v=GZvSYJDk-us
+What is Restful API - https://youtube.com/watch?v=Q-BpqyOT3a8
+How to use Public API - https://youtu.be/BYsTrGH6B2s
+Fetch API Introduction - https://www.youtube.com/watch?v=Oive66jrwBs
+Make and deploy your own API - https://www.youtube.com/watch?v=FLnxgSZ0DG4
+
+📌Projects to Practice API
+Build a Coronavirus Live Data Web App in Javascript Using Covid-19 API - https://youtube.com/watch?v=bXoNcBaxfVs
+Food Recipe App Using API | Vanilla JS Project - https://youtube.com/watch?v=opikz5x_1ak
+250 Unique APIs for your next Project - https://www.youtube.com/watch?v=Y0QBmXEylP8
+
+SQL Vs NoSQL
+SQL vs NoSQL or MySQL vs MongoDB - https://youtube.com/watch?v=ZS_kXvOeQ5Y
+MySQL vs MongoDB - https://youtube.com/watch?v=Ke4G-c94VBM
+Which Is Better? SQL vs NoSQL - https://www.youtube.com/watch?v=t0GlGbtMTio
+
+SQL 
+MySQL Tutorial for Beginners [Full Course] - https://youtube.com/watch?v=7S_tz1z_5bA
+MySQL Tutorial For Beginners | Introduction to MySQL  - https://youtube.com/watch?v=WmGgxTpGs_8
+SQL Tutorial - Full Database Course for Beginners - https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+PostgreSQL
+Learn PostgreSQL Tutorial - Full Course for Beginner - https://youtube.com/watch?v=qw--VYLpxG4
+PostgreSQL Tutorial For Beginners | Learn PostgreSQL - https://youtube.com/watch?v=-VO7YjQeG6Y
+
+NoSQL
+An Introduction To NoSQL Databases - https://youtube.com/watch?v=uD3p_rZPBUQ
+NoSQL Tutorial For Beginners | RDBMS Vs NoSQL - https://youtube.com/watch?v=XFE0EgT5oQE
+Introduction to NoSQL databases - https://www.youtube.com/watch?v=xQnIN9bW0og
+
+MongoDB
+
+MongoDB In 30 Minutes - https://youtube.com/watch?v=pWbMrx5rVBE
+MongoDB in 100 Seconds - https://youtube.com/watch?v=-bt_y4Loofg
+MongoDB Crash Course - https://youtube.com/watch?v=-56x56UppqQ
+MongoDB Architecture | MongoDB Tutorial - https://www.youtube.com/watch?v=Ugn9DfGpZRg
+
+📌Projects to Practice MongoDB
+Build a Chat App With MongoDB & Socket .io [Part 1] - https://youtube.com/watch?v=8Y6mWhcdSUM
+Full Stack MERN Project - Build and Deploy an App - https://www.youtube.com/watch?v=ngc9gnGgUdA
+MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm - https://youtube.com/watch?v=mrHNSanmqQ4
+Build a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS) - https://youtube.com/watch?v=gzdQDxzW2Tw
+Build a TIK TOK Clone with MERN Stack - https://www.youtube.com/watch?v=g8yGxDMyGiE
