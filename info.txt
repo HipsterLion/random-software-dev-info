@@ -1,1 +1,38 @@
 This is going to have random bits of information I have stumbled upon, mostly from Twitter.
+
+Links to information first:
+https://twitter.com/saumya1singh/status/1589636594645901317
+https://twitter.com/Div_pradeep/status/1589888557530763264
+https://twitter.com/simonholdorf/status/1589861996627136515
+https://twitter.com/ChrisStaud/status/1590232621392441345
+https://twitter.com/hasantoxr/status/1591067784871559168
+https://twitter.com/DataScienceDojo/status/1591583874558984193
+https://twitter.com/itsafiz/status/1591788434355802115
+https://twitter.com/madzadev/status/1592173978361253888
+https://twitter.com/mdjunaidap/status/1592750538197983234
+https://twitter.com/vikasrajputin/status/1592735215041904642
+https://twitter.com/NikkiSiapno/status/1593126530682523648
+https://twitter.com/ujjwalscript/status/1593143603001708548
+https://twitter.com/vikasrajputin/status/1593460494886576128
+https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb
+
+Websites to different sources for specific purposes:
+👨‍💻 Icons:  http://thenounproject.com
+📝 Resume: http://overleaf.com
+🎨 Illustrations, vector images: http://icons8.com
+🍥 3D icons: http://fueler.io/creatons
+🗃️ Create visual guides: http://scribe.how/chrome
+➗ Learn sorting visually: https://www.toptal.com/developers/sorting-algorithms
+📚 Learn Anything: http://learn-anything.xyz
+🎠 Create bg with text: http://imgcreator.ai
+🍥 Source code to picture: http://carbon.now.sh
+🎥 Photo engine: http://source.unsplash.com
+👨‍💻 Handy Dev tools: http://smalldev.tools
+🎨 High-class illustrations: http://storytale.io
+
+Website links containing lists of Beginner Python projects:
+5 Mini Python Projects For Beginners - https://www.youtube.com/watch?v=DLn3jOsNRVE
+12 Beginner Python Projects Coding Course - https://www.youtube.com/watch?v=8ext9G7xspg
+15 Python Projects in Under 15 Minutes (Code Included) - https://www.youtube.com/watch?v=OXi4T58PwdM
+3 Python Automation Projects For Beginners - https://www.youtube.com/watch?v=Oz3W-LKfafE
+20 Beginner Python Projects - https://www.youtube.com/watch?v=pdy3nh1tn6I
