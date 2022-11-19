@@ -42,7 +42,7 @@ Build A Calculator With JavaScript Tutorial - https://www.youtube.com/watch?v=j5
 Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter) - https://www.youtube.com/watch?v=OqbGRZx4xUc
 Learn JavaScript by Building 7 Games - https://www.youtube.com/watch?v=ec8vSKJuZTk
 
-Python Cheatsheet commands (typing them out here to help with building memory):
+Python Cheatsheet Commands (typing them out here to help with building memory):
 <grow the list of commands from the photos in this source link - https://twitter.com/itsafiz/status/1591788434355802115>
 
 List of GitHub repos with valuable information:
@@ -100,7 +100,6 @@ NoSQL Tutorial For Beginners | RDBMS Vs NoSQL - https://youtube.com/watch?v=XFE0
 Introduction to NoSQL databases - https://www.youtube.com/watch?v=xQnIN9bW0og
 
 MongoDB
-
 MongoDB In 30 Minutes - https://youtube.com/watch?v=pWbMrx5rVBE
 MongoDB in 100 Seconds - https://youtube.com/watch?v=-bt_y4Loofg
 MongoDB Crash Course - https://youtube.com/watch?v=-56x56UppqQ
@@ -112,3 +111,6 @@ Full Stack MERN Project - Build and Deploy an App - https://www.youtube.com/watc
 MERN Stack Course - ALSO: Convert Backend to Serverless with MongoDB Realm - https://youtube.com/watch?v=mrHNSanmqQ4
 Build a Whatsapp Clone with MERN Stack (MongoDB, Express, React, Node JS) - https://youtube.com/watch?v=gzdQDxzW2Tw
 Build a TIK TOK Clone with MERN Stack - https://www.youtube.com/watch?v=g8yGxDMyGiE
+
+SQL Cheatsheet Commands (typing them out here to help with building memory):
+<grow this list from https://twitter.com/DataScienceDojo/status/1591583874558984193>
