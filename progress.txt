@@ -1,0 +1,10 @@
+This will contain my progress from info.txt. Contains "What I am currently reviewing", "What I have reviewed", and "What I will review next".
+I am adding the line number + content from that line. Since info.txt is a live document, I will be updating the line numbers as necessary.
+
+What I am currently reviewing:
+Line 52 - Computer Science - https://github.com/ossu/computer-science
+
+What I have reviewed: 
+
+What I will review next:
+Line 84 - SQL vs NoSQL or MySQL vs MongoDB - https://youtube.com/watch?v=ZS_kXvOeQ5Y
